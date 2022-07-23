@@ -1,0 +1,99 @@
+.root:global(.__wab_instance) {
+  position: relative;
+}
+.freeBox__nNj1F {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.freeBox__ifOrC {
+  flex-direction: column;
+  display: flex;
+}
+.freeBox__ifOrC > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.freeBox__ifOrC > :global(.__wab_flex-container) > *,
+.freeBox__ifOrC > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__ifOrC > :global(.__wab_flex-container) > picture > img,
+.freeBox__ifOrC
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.slotTargetName {
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  color: var(--token-NEon4Y--Z);
+}
+.text___0OB3O {
+  font-size: 48px;
+}
+.freeBox__jfMZu {
+  flex-direction: column;
+  display: flex;
+  position: relative;
+}
+.freeBox__jfMZu > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.freeBox__jfMZu > :global(.__wab_flex-container) > *,
+.freeBox__jfMZu > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__jfMZu > :global(.__wab_flex-container) > picture > img,
+.freeBox__jfMZu
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.bullet___0JtY9:global(.__wab_instance) {
+  position: relative;
+}
+.bullet__dKaM:global(.__wab_instance) {
+  position: relative;
+}
+.bullet__lBeU:global(.__wab_instance) {
+  position: relative;
+}
+.freeBox__nUjak {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: calc(13px + 8px) !important;
+}
+.button___68Ela:global(.__wab_instance) {
+  position: relative;
+}
+.svg__bk9ZF {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__m6Nt {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__admaa {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  object-fit: cover;
+}
